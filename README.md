@@ -84,9 +84,6 @@ Password: your-password
     Password Hashing: Passwords are stored as hashes and verified using PHP's password_verify() function.
     Session Management: User sessions are securely managed, ensuring the safety of user data during their logged-in session.
 
-📸 Screenshot
-
-Gaming-Store Login
 📄 License
 
 This project is licensed under the MIT License.
